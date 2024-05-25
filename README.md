@@ -5,3 +5,7 @@ Highway-env is a collection of environments for autonomous driving and tactical 
 
 ### Agent : DDPG (Deep Deterministic Policy Gradient) Agent
 This model-free policy-based reinforcement learning agent is optimized directly by gradient ascent. It uses Hindsight Experience Replay to efficiently learn how to solve a goal-conditioned task.
+
+
+
+### -> pre-trained agent is included in this repo for demonstration purposes : 'pre-trained-DDPG-HER.h5f'
